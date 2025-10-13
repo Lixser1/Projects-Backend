@@ -40,8 +40,8 @@ API_KEY=your_key
 
 # Запуск API (терминал 1)
 python run_api.py
-```
+
 
 # Запуск бота (терминал 2)
 python main.py
-
+```
